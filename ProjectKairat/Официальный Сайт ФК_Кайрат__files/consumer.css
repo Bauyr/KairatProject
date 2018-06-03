@@ -1,0 +1,45 @@
+.tcn-widget {}
+.tcn-widget-film {
+	border: 1px solid #B1D0A5;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	padding: 1px 6px 1px 3px;
+	background: #FFFFFF;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#FFFFFF), to(#D7E5D2));
+	background: -webkit-linear-gradient(#FFFFFF, #D7E5D2);
+	background: -moz-linear-gradient(#FFFFFF, #D7E5D2);
+	background: -ms-linear-gradient(#FFFFFF, #D7E5D2);
+	background: -o-linear-gradient(#FFFFFF, #D7E5D2);
+	background: linear-gradient(#FFFFFF, #D7E5D2);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF',endColorstr='#D7E5D2',GradientType=0);
+	-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF',endColorstr='#D7E5D2',GradientType=0)";
+	color: #006600;
+	text-decoration: none;
+	line-height: 18px;
+	display: inline-block;
+	*display:inline;
+	position:relative;
+	zoom:1;
+}
+.tcn-widget .tcn-widget-film-icon {padding: 1px 3px 1px 16px;background: url("i/ticket.png") no-repeat scroll left top transparent;position:relative;zoom:1;}
+:root .tcn-widget-film-icon {padding: 2px 3px 2px 16px \0/;}
+.tcn-widget .tcn-widget-film-text {color: #006600;text-decoration: underline;position:relative;zoom:1;}
+.tcn-widget-film:hover {border-color: #c1e0b5;background: #FFFFFF;background: -webkit-gradient(linear, 0 0, 0 bottom, from(#FFFFFF), to(#DFEBDB));background: -webkit-linear-gradient(#FFFFFF, #DFEBDB);background: -moz-linear-gradient(#FFFFFF, #DFEBDB);background: -ms-linear-gradient(#FFFFFF, #DFEBDB);background: -o-linear-gradient(#FFFFFF, #DFEBDB);background: linear-gradient(#FFFFFF, #DFEBDB);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF',endColorstr='#DFEBDB',GradientType=0);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF',endColorstr='#DFEBDB',GradientType=0)";color: #007e00;}
+.tcn-widget-film:hover .tcn-widget-film-text {color: #007e00;}
+
+.tcn-widget-btn-tickets{line-height:16px;width:auto;height:22px;position:relative;display:inline-block;*display:inline;zoom:1;text-decoration:none;font-style:normal;color:#000;cursor:pointer;*cursor:hand;white-space:pre;}
+.tcn-widget-btn-tickets .tcn-widget-btn-s,.tcn-widget-btn-tickets .tcn-widget-btn-text{background-image:url('i/btn_h_e_s.png');background-repeat:repeat-x;height:22px;vertical-align:top;display:inline-block;*display:inline;zoom:1;}
+.tcn-widget-btn-tickets .tcn-widget-btn-s{width:6px;height:22px;}
+.tcn-widget-btn-tickets .tcn-widget-btn-s-l{background-position:0 -44px;}
+.tcn-widget-btn-tickets .tcn-widget-btn-s-r{background-position:-12px -44px;}
+.tcn-widget-btn-tickets .tcn-widget-btn-text{text-shadow:0 1px 0 #EEE;font-weight:bold;line-height:18px;padding:0 2px;background-position:0 0;color:#000;font-size:12px;font-family:Arial,Tahoma;text-decoration:none;font-style:normal;}
+
+.tcn-widget-btn-tickets:hover .tcn-widget-btn-s-l{background-position:0 -66px;}
+.tcn-widget-btn-tickets:hover .tcn-widget-btn-s-r{background-position:-12px -66px;}
+.tcn-widget-btn-tickets:hover .tcn-widget-btn-text{background-position:0 -22px;}
+
+.tcn-widget-btn-time{background:url("i/btn_time_s.png") no-repeat scroll left top transparent;width:45px;line-height:23px;position:relative;color:#000;text-align:center;text-decoration:none;font-weight:bold;text-shadow:0 1px 0 #FFF;display:inline-block;*display:inline;zoom:1;}
+.tcn-widget-btn-time:hover{background-position:left bottom;color:#000;}
+
+.tcn-widget-promo {}

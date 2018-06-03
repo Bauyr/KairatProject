@@ -1,0 +1,33 @@
+
+		*{
+			padding: 0px;
+			margin: 0px;
+		}
+		
+		#main{
+			margin:15px;
+			padding: 10px;
+			box-shadow: 0 0 22px #000;
+			width:950px;
+			height:500px;
+		}
+		#carousel{
+			width:950px;
+			height:500px;
+			overflow: hidden;
+		}
+		#carousel ul{
+			list-style:none; 
+			width:5000px;
+			height:500px;
+		}
+		#carousel ul li{
+			float:left;
+			width:950px;
+			height:500px;
+		}#carousel ul li img{
+			width:950px;
+			height:500px;
+		}
+
+	
